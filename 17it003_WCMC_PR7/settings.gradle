@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='17it003_WCMC_PR7'
