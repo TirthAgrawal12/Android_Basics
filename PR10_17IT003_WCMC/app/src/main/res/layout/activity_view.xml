@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".View"
-    android:background="#FFE5E5"
+    tools:context=".View1"
     >
 
 
@@ -24,6 +23,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:textSize="10sp"
-        android:textColor="#B53160"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
